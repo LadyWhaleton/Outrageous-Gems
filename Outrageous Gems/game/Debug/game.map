@@ -1,0 +1,1420 @@
+Archive member included because of file (symbol)
+
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+                              game.o (__udivmodsi4)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm1284.o (exit)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump.o)
+                              game.o (__tablejump2__)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+                              game.o (__do_copy_data)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+                              game.o (__do_clear_bss)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+                              game.o (__umulhisi3)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(eerd_word_atmega1284.o)
+                              game.o (__eerd_word_m1284)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(eeupd_word_atmega1284.o)
+                              game.o (__eeupd_word_m1284)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(eerd_block_atmega1284.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(eerd_word_atmega1284.o) (__eerd_blraw_m1284)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(eeupd_byte_atmega1284.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(eeupd_word_atmega1284.o) (__eeupd_byte_m1284)
+
+Allocating common symbols
+Common symbol       size              file
+
+MAP9_J3             0x5               game.o
+MAP9_J2             0x5               game.o
+MAP2_J1             0x5               game.o
+MAP11_J2            0x5               game.o
+MAP9_C1             0x5               game.o
+MAP1_J1             0x5               game.o
+MAP4_TO_MAP6        0x4               game.o
+tutIndex            0x1               game.o
+MAP7_TO_MAP5        0x4               game.o
+MAP5_TO_MAP4        0x4               game.o
+TutMSGOn            0x1               game.o
+MAP14_TO_MAP11      0x4               game.o
+MAP4_TO_MAP3        0x4               game.o
+MAP10_TO_MAP12      0x4               game.o
+MAP14_J1            0x5               game.o
+scoreDisplayOn      0x1               game.o
+MAP8_TO_MAP7        0x4               game.o
+Title2Index         0x1               game.o
+TitleOn             0x1               game.o
+TimeDisplayOn       0x1               game.o
+MAP12_C1            0x5               game.o
+MAP14_T1            0x5               game.o
+MAP12_G1            0x5               game.o
+MAP11_C1            0x5               game.o
+MAP15_TO_MAP9       0x4               game.o
+MAP6_C1             0x5               game.o
+MAP8_TO_MAP15       0x4               game.o
+MAP15_TO_MAP12      0x4               game.o
+MAP3_J2             0x5               game.o
+MAP13_TO_MAP12      0x4               game.o
+MAP6_G1             0x5               game.o
+MAP12_TO_MAP13      0x4               game.o
+MAP2_J2             0x5               game.o
+TutorialOn          0x1               game.o
+MAP15_TO_MAP14      0x4               game.o
+MAP14_C2            0x5               game.o
+MAP12_TO_MAP15      0x4               game.o
+currMap             0x1               game.o
+pauseMenuIndex      0x1               game.o
+MAP12_J1            0x5               game.o
+MAP4_J1             0x5               game.o
+MAP11_TO_MAP14      0x4               game.o
+MAP14_TO_MAP15      0x4               game.o
+MAP13_J3            0x5               game.o
+MAP9_J4             0x5               game.o
+MAP11_J3            0x5               game.o
+fakeRandomNumber    0x1               game.o
+button              0x1               game.o
+MAP1_indexOfTreasure
+                    0x1               game.o
+MAP14_J3            0x5               game.o
+MAP11_J1            0x5               game.o
+MAP14_G2            0x5               game.o
+MAP1_TO_MAP0        0x4               game.o
+MAP1_C1             0x5               game.o
+map13_treasureRandomized
+                    0x1               game.o
+MAP12_TO_MAP10      0x4               game.o
+MAP1_T1             0x5               game.o
+MAP10_TO_MAP1       0x4               game.o
+score               0x2               game.o
+MAP6_TO_MAP4        0x4               game.o
+isPaused            0x1               game.o
+MAP7_TO_MAP9        0x4               game.o
+gameOver            0x2               game.o
+MAP11_G1            0x5               game.o
+MAP4_TO_MAP5        0x4               game.o
+nextPlayerPos       0x1               game.o
+MAP2_T2             0x5               game.o
+MAP2_TO_MAP1        0x4               game.o
+PORTAL_UP           0x1               game.o
+endex               0x1               game.o
+MAP9_J1             0x5               game.o
+MAP2_J3             0x5               game.o
+GameOn              0x1               game.o
+endingOn            0x1               game.o
+MAP3_C1             0x5               game.o
+map6_treasureRandomized
+                    0x1               game.o
+MAP3_TO_MAP2        0x4               game.o
+scoreToggle         0x1               game.o
+MAP3_C2             0x5               game.o
+MAP5_TO_MAP7        0x4               game.o
+movePlayer          0x1               game.o
+resultsOn           0x1               game.o
+MAP9_G1             0x5               game.o
+highScore           0x2               game.o
+MAP14_J5            0x5               game.o
+MAP14_G4            0x5               game.o
+MAP14_C1            0x5               game.o
+updateMap           0x1               game.o
+map14_treasureRandomized
+                    0x1               game.o
+MAP15_T1            0x5               game.o
+MAP0_TO_MAP10       0x4               game.o
+MAP9_T1             0x5               game.o
+MAP13_C1            0x5               game.o
+MAP0_TO_MAP1        0x4               game.o
+PauseMenuOn         0x1               game.o
+MAP14_J2            0x5               game.o
+MAP14_G1            0x5               game.o
+MAP13_J2            0x5               game.o
+MAP3_J1             0x5               game.o
+TitleIndex          0x1               game.o
+MAP0_J1             0x5               game.o
+gameTimer           0x4               game.o
+MAP7_TO_MAP8        0x4               game.o
+MAP12_T1            0x5               game.o
+MAP10_TO_MAP11      0x4               game.o
+MAP11_TO_MAP10      0x4               game.o
+MAP2_TO_MAP3        0x4               game.o
+MAP1_TO_MAP2        0x4               game.o
+MAP3_TO_MAP4        0x4               game.o
+map12_treasureRandomized
+                    0x1               game.o
+MAP9_TO_MAP7        0x4               game.o
+MAP14_T2            0x5               game.o
+MAP0_T1             0x5               game.o
+MAP11_T1            0x5               game.o
+currPlayerPos       0x1               game.o
+MAP12_J2            0x5               game.o
+MAP12_T2            0x5               game.o
+MAP14_J4            0x5               game.o
+MAP2_T1             0x5               game.o
+MAP14_G3            0x5               game.o
+map8_PortalON       0x1               game.o
+MAP13_G1            0x5               game.o
+MAP13_J1            0x5               game.o
+
+Discarded input sections
+
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm1284.o
+ .text          0x00000000        0x0 game.o
+ .bss           0x00000000        0x0 game.o
+ .text.findGCD  0x00000000       0x5a game.o
+ .text.TimerSet
+                0x00000000       0x22 game.o
+ .text.TimerOff
+                0x00000000        0x6 game.o
+ .text.TimerISR
+                0x00000000        0x8 game.o
+ .text.cursorOn
+                0x00000000        0x8 game.o
+ .text.createHouseIcon
+                0x00000000       0x32 game.o
+ .text.createFishIcon
+                0x00000000       0x32 game.o
+ .text.TreasureOnRandomizer
+                0x00000000       0x4c game.o
+ .text.SetBit   0x00000000       0x30 game.o
+ .text.GetBit   0x00000000       0x14 game.o
+ .data.numMarkers_MAP15
+                0x00000000        0x1 game.o
+ .data.MAP15_MARKERSLIST
+                0x00000000        0x6 game.o
+ .data.numMarkers_MAP8
+                0x00000000        0x1 game.o
+ .data.MAP8_MARKERSLIST
+                0x00000000        0x4 game.o
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(eerd_word_atmega1284.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(eerd_word_atmega1284.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(eeupd_word_atmega1284.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(eeupd_word_atmega1284.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(eerd_block_atmega1284.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(eerd_block_atmega1284.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(eeupd_byte_atmega1284.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(eeupd_byte_atmega1284.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800100         0x0000ff00         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm1284.o
+LOAD game.o
+START GROUP
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a
+END GROUP
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x3b28
+ *(.vectors)
+ .vectors       0x00000000       0x8c c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm1284.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table.mapHandler
+                0x0000008c       0x40 game.o
+ .progmem.gcc_sw_table.getButton
+                0x000000cc       0x8a game.o
+ .progmem.gcc_sw_table.game
+                0x00000156       0x14 game.o
+                0x0000016a                . = ALIGN (0x2)
+                0x0000016a                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000016a        0x0 linker stubs
+ *(.trampolines*)
+                0x0000016a                __trampolines_end = .
+ *(.progmem*)
+                0x0000016a                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x0000016a                __ctors_start = .
+ *(.ctors)
+                0x0000016a                __ctors_end = .
+                0x0000016a                __dtors_start = .
+ *(.dtors)
+                0x0000016a                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x0000016a        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm1284.o
+                0x0000016a                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x0000016a        0xc c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm1284.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000176       0x1a c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+                0x00000176                __do_copy_data
+ .init4         0x00000190       0x10 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+                0x00000190                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000001a0        0x8 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm1284.o
+ *(.init9)
+ *(.text)
+ .text          0x000001a8        0x2 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm1284.o
+                0x000001a8                __vector_22
+                0x000001a8                __vector_28
+                0x000001a8                __vector_1
+                0x000001a8                __vector_32
+                0x000001a8                __vector_34
+                0x000001a8                __vector_24
+                0x000001a8                __vector_12
+                0x000001a8                __bad_interrupt
+                0x000001a8                __vector_6
+                0x000001a8                __vector_31
+                0x000001a8                __vector_3
+                0x000001a8                __vector_23
+                0x000001a8                __vector_30
+                0x000001a8                __vector_25
+                0x000001a8                __vector_11
+                0x000001a8                __vector_17
+                0x000001a8                __vector_19
+                0x000001a8                __vector_7
+                0x000001a8                __vector_27
+                0x000001a8                __vector_5
+                0x000001a8                __vector_33
+                0x000001a8                __vector_4
+                0x000001a8                __vector_9
+                0x000001a8                __vector_2
+                0x000001a8                __vector_21
+                0x000001a8                __vector_15
+                0x000001a8                __vector_29
+                0x000001a8                __vector_8
+                0x000001a8                __vector_26
+                0x000001a8                __vector_14
+                0x000001a8                __vector_10
+                0x000001a8                __vector_16
+                0x000001a8                __vector_18
+                0x000001a8                __vector_20
+                0x000001aa                . = ALIGN (0x2)
+ *(.text.*)
+ .text.TimerOn  0x000001aa       0x48 game.o
+                0x000001aa                TimerOn
+ .text.__vector_13
+                0x000001f2       0x78 game.o
+                0x000001f2                __vector_13
+ .text.delay_ms
+                0x0000026a       0x2e game.o
+                0x0000026a                delay_ms
+ .text.LCD_WriteCommand
+                0x00000298       0x12 game.o
+                0x00000298                LCD_WriteCommand
+ .text.LCD_ClearScreen
+                0x000002aa        0x6 game.o
+                0x000002aa                LCD_ClearScreen
+ .text.LCD_Cursor
+                0x000002b0       0x10 game.o
+                0x000002b0                LCD_Cursor
+ .text.LCD_init
+                0x000002c0       0x1e game.o
+                0x000002c0                LCD_init
+ .text.LCD_WriteData
+                0x000002de       0x12 game.o
+                0x000002de                LCD_WriteData
+ .text.LCD_DisplayString
+                0x000002f0       0x34 game.o
+                0x000002f0                LCD_DisplayString
+ .text.cursorOff
+                0x00000324        0x6 game.o
+                0x00000324                cursorOff
+ .text.createPlayerIcon
+                0x0000032a       0x22 game.o
+                0x0000032a                createPlayerIcon
+ .text.createJewelIcon
+                0x0000034c       0x22 game.o
+                0x0000034c                createJewelIcon
+ .text.createGemIcon
+                0x0000036e       0x22 game.o
+                0x0000036e                createGemIcon
+ .text.createTeardropIcon
+                0x00000390       0x22 game.o
+                0x00000390                createTeardropIcon
+ .text.createCrystalIcon
+                0x000003b2       0x22 game.o
+                0x000003b2                createCrystalIcon
+ .text.createTreeIcon
+                0x000003d4       0x22 game.o
+                0x000003d4                createTreeIcon
+ .text.createUARROWIcon
+                0x000003f6       0x22 game.o
+                0x000003f6                createUARROWIcon
+ .text.createDARROWIcon
+                0x00000418       0x22 game.o
+                0x00000418                createDARROWIcon
+ .text.initIcons
+                0x0000043a       0x16 game.o
+                0x0000043a                initIcons
+ .text.validateMoveUp
+                0x00000450       0x1c game.o
+                0x00000450                validateMoveUp
+ .text.validateMoveDown
+                0x0000046c       0x1c game.o
+                0x0000046c                validateMoveDown
+ .text.validateMoveLeft
+                0x00000488       0x20 game.o
+                0x00000488                validateMoveLeft
+ .text.validateMoveRight
+                0x000004a8       0x20 game.o
+                0x000004a8                validateMoveRight
+ .text.getNextPosition
+                0x000004c8       0x24 game.o
+                0x000004c8                getNextPosition
+ .text.resetGameTimer
+                0x000004ec       0x26 game.o
+                0x000004ec                resetGameTimer
+ .text.displayTimeOnLED
+                0x00000512       0xaa game.o
+                0x00000512                displayTimeOnLED
+ .text.updateTimer
+                0x000005bc       0x7e game.o
+                0x000005bc                updateTimer
+ .text.displayTimeLeftMSG
+                0x0000063a       0x2c game.o
+                0x0000063a                displayTimeLeftMSG
+ .text.displayTimeLeft
+                0x00000666       0x80 game.o
+                0x00000666                displayTimeLeft
+ .text.loadHighScore
+                0x000006e6       0x24 game.o
+                0x000006e6                loadHighScore
+ .text.writeHighScore
+                0x0000070a        0xc game.o
+                0x0000070a                writeHighScore
+ .text.updateScore
+                0x00000716       0x16 game.o
+                0x00000716                updateScore
+ .text.resetScore
+                0x0000072c       0x12 game.o
+                0x0000072c                resetScore
+ .text.displayCongratz
+                0x0000073e        0xa game.o
+                0x0000073e                displayCongratz
+ .text.updateHighScore
+                0x00000748       0x14 game.o
+                0x00000748                updateHighScore
+ .text.displayScore
+                0x0000075c       0x9c game.o
+                0x0000075c                displayScore
+ .text.displayScoreMSG
+                0x000007f8       0x7a game.o
+                0x000007f8                displayScoreMSG
+ .text.initMAP0
+                0x00000872       0x74 game.o
+                0x00000872                initMAP0
+ .text.displayMap0
+                0x000008e6       0xb0 game.o
+                0x000008e6                displayMap0
+ .text.MAP0_checkNewMap
+                0x00000996       0x56 game.o
+                0x00000996                MAP0_checkNewMap
+ .text.collisionDetectorMAP0
+                0x000009ec       0x86 game.o
+                0x000009ec                collisionDetectorMAP0
+ .text.initMAP1
+                0x00000a72       0x9a game.o
+                0x00000a72                initMAP1
+ .text.displayMap1
+                0x00000b0c       0xc0 game.o
+                0x00000b0c                displayMap1
+ .text.MAP1_checkNewMap
+                0x00000bcc       0x56 game.o
+                0x00000bcc                MAP1_checkNewMap
+ .text.collisionDetectorMAP1
+                0x00000c22       0x78 game.o
+                0x00000c22                collisionDetectorMAP1
+ .text.initMAP2
+                0x00000c9a       0xa0 game.o
+                0x00000c9a                initMAP2
+ .text.displayMap2
+                0x00000d3a       0xb0 game.o
+                0x00000d3a                displayMap2
+ .text.MAP2_checkNewMap
+                0x00000dea       0x56 game.o
+                0x00000dea                MAP2_checkNewMap
+ .text.collisionDetectorMAP2
+                0x00000e40       0x86 game.o
+                0x00000e40                collisionDetectorMAP2
+ .text.initMAP3
+                0x00000ec6       0x90 game.o
+                0x00000ec6                initMAP3
+ .text.displayMap3
+                0x00000f56       0xda game.o
+                0x00000f56                displayMap3
+ .text.MAP3_checkNewMap
+                0x00001030       0x56 game.o
+                0x00001030                MAP3_checkNewMap
+ .text.collisionDetectorMAP3
+                0x00001086       0xa2 game.o
+                0x00001086                collisionDetectorMAP3
+ .text.initMAP4
+                0x00001128       0x60 game.o
+                0x00001128                initMAP4
+ .text.displayMap4
+                0x00001188       0xda game.o
+                0x00001188                displayMap4
+ .text.MAP4_checkNewMap
+                0x00001262       0x56 game.o
+                0x00001262                MAP4_checkNewMap
+ .text.collisionDetectorMAP4
+                0x000012b8       0xa2 game.o
+                0x000012b8                collisionDetectorMAP4
+ .text.initMAP5
+                0x0000135a       0x30 game.o
+                0x0000135a                initMAP5
+ .text.displayMap5
+                0x0000138a       0x96 game.o
+                0x0000138a                displayMap5
+ .text.MAP5_checkNewMap
+                0x00001420       0x58 game.o
+                0x00001420                MAP5_checkNewMap
+ .text.collisionDetectorMAP5
+                0x00001478       0x30 game.o
+                0x00001478                collisionDetectorMAP5
+ .text.initMAP6
+                0x000014a8       0x58 game.o
+                0x000014a8                initMAP6
+ .text.displayMap6
+                0x00001500       0xee game.o
+                0x00001500                displayMap6
+ .text.MAP6_checkNewMap
+                0x000015ee       0x58 game.o
+                0x000015ee                MAP6_checkNewMap
+ .text.collisionDetectorMAP6
+                0x00001646       0xa2 game.o
+                0x00001646                collisionDetectorMAP6
+ .text.initMAP7
+                0x000016e8       0x46 game.o
+                0x000016e8                initMAP7
+ .text.displayMap7
+                0x0000172e       0x96 game.o
+                0x0000172e                displayMap7
+ .text.MAP7_checkNewMap
+                0x000017c4       0x58 game.o
+                0x000017c4                MAP7_checkNewMap
+ .text.collisionDetectorMAP7
+                0x0000181c       0x30 game.o
+                0x0000181c                collisionDetectorMAP7
+ .text.initMAP8
+                0x0000184c       0x36 game.o
+                0x0000184c                initMAP8
+ .text.displayMap8
+                0x00001882       0x84 game.o
+                0x00001882                displayMap8
+ .text.MAP8_checkNewMap
+                0x00001906       0x60 game.o
+                0x00001906                MAP8_checkNewMap
+ .text.collisionDetectorMAP8
+                0x00001966       0x30 game.o
+                0x00001966                collisionDetectorMAP8
+ .text.initMAP9
+                0x00001996       0xc8 game.o
+                0x00001996                initMAP9
+ .text.displayMap9
+                0x00001a5e       0xee game.o
+                0x00001a5e                displayMap9
+ .text.MAP9_checkNewMap
+                0x00001b4c       0x58 game.o
+                0x00001b4c                MAP9_checkNewMap
+ .text.collisionDetectorMAP9
+                0x00001ba4       0xa4 game.o
+                0x00001ba4                collisionDetectorMAP9
+ .text.initMAP10
+                0x00001c48       0x48 game.o
+                0x00001c48                initMAP10
+ .text.displayMap10
+                0x00001c90       0x96 game.o
+                0x00001c90                displayMap10
+ .text.MAP10_checkNewMap
+                0x00001d26       0x58 game.o
+                0x00001d26                MAP10_checkNewMap
+ .text.collisionDetectorMAP10
+                0x00001d7e       0x30 game.o
+                0x00001d7e                collisionDetectorMAP10
+ .text.initMAP11
+                0x00001dae       0xc8 game.o
+                0x00001dae                initMAP11
+ .text.displayMap11
+                0x00001e76       0xee game.o
+                0x00001e76                displayMap11
+ .text.MAP11_checkNewMap
+                0x00001f64       0x58 game.o
+                0x00001f64                MAP11_checkNewMap
+ .text.collisionDetectorMAP11
+                0x00001fbc       0xa4 game.o
+                0x00001fbc                collisionDetectorMAP11
+ .text.initMAP12
+                0x00002060       0xe6 game.o
+                0x00002060                initMAP12
+ .text.displayMap12
+                0x00002146       0xee game.o
+                0x00002146                displayMap12
+ .text.MAP12_checkNewMap
+                0x00002234       0x58 game.o
+                0x00002234                MAP12_checkNewMap
+ .text.collisionDetectorMAP12
+                0x0000228c       0xa4 game.o
+                0x0000228c                collisionDetectorMAP12
+ .text.initMAP13
+                0x00002330       0xa4 game.o
+                0x00002330                initMAP13
+ .text.displayMap13
+                0x000023d4       0xee game.o
+                0x000023d4                displayMap13
+ .text.MAP13_checkNewMap
+                0x000024c2       0x58 game.o
+                0x000024c2                MAP13_checkNewMap
+ .text.collisionDetectorMAP13
+                0x0000251a       0xa4 game.o
+                0x0000251a                collisionDetectorMAP13
+ .text.initMAP14
+                0x000025be      0x164 game.o
+                0x000025be                initMAP14
+ .text.displayMap14
+                0x00002722       0xee game.o
+                0x00002722                displayMap14
+ .text.MAP14_checkNewMap
+                0x00002810       0x58 game.o
+                0x00002810                MAP14_checkNewMap
+ .text.collisionDetectorMAP14
+                0x00002868       0xa4 game.o
+                0x00002868                collisionDetectorMAP14
+ .text.initMAP15
+                0x0000290c       0x68 game.o
+                0x0000290c                initMAP15
+ .text.displayMap15
+                0x00002974       0xe6 game.o
+                0x00002974                displayMap15
+ .text.MAP15_checkNewMap
+                0x00002a5a       0x84 game.o
+                0x00002a5a                MAP15_checkNewMap
+ .text.collisionDetectorMAP15
+                0x00002ade       0xa4 game.o
+                0x00002ade                collisionDetectorMAP15
+ .text.initializeMAPS
+                0x00002b82       0x36 game.o
+                0x00002b82                initializeMAPS
+ .text.mapHandler
+                0x00002bb8      0x318 game.o
+                0x00002bb8                mapHandler
+ .text.GetKeypadKey
+                0x00002ed0       0x9c game.o
+                0x00002ed0                GetKeypadKey
+ .text.getButton
+                0x00002f6c       0xb0 game.o
+                0x00002f6c                getButton
+ .text.clearLCD_lower
+                0x0000301c       0x1a game.o
+                0x0000301c                clearLCD_lower
+ .text.resetTitle
+                0x00003036       0x10 game.o
+                0x00003036                resetTitle
+ .text.endAnimation
+                0x00003046       0x96 game.o
+                0x00003046                endAnimation
+ .text.displayTitle1
+                0x000030dc       0x3c game.o
+                0x000030dc                displayTitle1
+ .text.displayTitle2
+                0x00003118        0xc game.o
+                0x00003118                displayTitle2
+ .text.displayTitle3
+                0x00003124       0x30 game.o
+                0x00003124                displayTitle3
+ .text.displayTitleAni
+                0x00003154       0x22 game.o
+                0x00003154                displayTitleAni
+ .text.TitleScreen
+                0x00003176       0xaa game.o
+                0x00003176                TitleScreen
+ .text.endTutorial
+                0x00003220       0x1a game.o
+                0x00003220                endTutorial
+ .text.resetTutorial
+                0x0000323a        0xe game.o
+                0x0000323a                resetTutorial
+ .text.tutDisplayMSG
+                0x00003248       0xa4 game.o
+                0x00003248                tutDisplayMSG
+ .text.Tutorial
+                0x000032ec       0xda game.o
+                0x000032ec                Tutorial
+ .text.resetGame
+                0x000033c6       0x30 game.o
+                0x000033c6                resetGame
+ .text.displayResults
+                0x000033f6       0x5a game.o
+                0x000033f6                displayResults
+ .text.displayPauseMenu
+                0x00003450       0x9a game.o
+                0x00003450                displayPauseMenu
+ .text.playGame
+                0x000034ea        0x8 game.o
+                0x000034ea                playGame
+ .text.game     0x000034f2      0x176 game.o
+                0x000034f2                game
+ .text.main     0x00003668      0x3f8 game.o
+                0x00003668                main
+ .text.libgcc.div
+                0x00003a60       0x44 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+                0x00003a60                __udivmodsi4
+ .text.libgcc   0x00003aa4        0xc c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump.o)
+                0x00003aa4                __tablejump2__
+                0x00003aa8                __tablejump__
+ .text.libgcc.mul
+                0x00003ab0       0x1e c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+                0x00003ab0                __umulhisi3
+ .text.avr-libc
+                0x00003ace        0xa c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(eerd_word_atmega1284.o)
+                0x00003ace                __eerd_word_m1284
+ .text.avr-libc
+                0x00003ad8        0x8 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(eeupd_word_atmega1284.o)
+                0x00003ad8                __eeupd_word_m1284
+ .text.avr-libc
+                0x00003ae0       0x20 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(eerd_block_atmega1284.o)
+                0x00003ae0                __eerd_block_m1284
+                0x00003ae4                __eerd_blraw_m1284
+ .text.avr-libc
+                0x00003b00       0x24 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(eeupd_byte_atmega1284.o)
+                0x00003b00                __eeupd_byte_m1284
+                0x00003b02                __eeupd_r18_m1284
+                0x00003b24                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00003b24        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+                0x00003b24                _exit
+                0x00003b24                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00003b24        0x4 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00003b28                _etext = .
+
+.data           0x00800100      0x468 load address 0x00003b28
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800100        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm1284.o
+ .data          0x00800100        0x0 game.o
+ .data          0x00800100        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .data          0x00800100        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .data          0x00800100        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump.o)
+ .data          0x00800100        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .data          0x00800100        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .data          0x00800100        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+ .data          0x00800100        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(eerd_word_atmega1284.o)
+ .data          0x00800100        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(eeupd_word_atmega1284.o)
+ .data          0x00800100        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(eerd_block_atmega1284.o)
+ .data          0x00800100        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a(eeupd_byte_atmega1284.o)
+ *(.data*)
+ .data.tutArrSize
+                0x00800100        0x1 game.o
+                0x00800100                tutArrSize
+ .data.tutArr   0x00800101       0x1a game.o
+                0x00800101                tutArr
+ .data.Title2Array
+                0x0080011b        0x2 game.o
+                0x0080011b                Title2Array
+ .data.TitleArray
+                0x0080011d        0x2 game.o
+                0x0080011d                TitleArray
+ .data.MAP15_TREE_LOCATIONS
+                0x0080011f       0x13 game.o
+                0x0080011f                MAP15_TREE_LOCATIONS
+ .data.numTreasures_MAP15
+                0x00800132        0x2 game.o
+                0x00800132                numTreasures_MAP15
+ .data.MAP15_TREASURELIST
+                0x00800134        0x2 game.o
+                0x00800134                MAP15_TREASURELIST
+ .data.numMarkers_MAP14
+                0x00800136        0x1 game.o
+                0x00800136                numMarkers_MAP14
+ .data.MAP14_MARKERSLIST
+                0x00800137        0x4 game.o
+                0x00800137                MAP14_MARKERSLIST
+ .data.MAP14_TREELIST
+                0x0080013b        0xa game.o
+                0x0080013b                MAP14_TREELIST
+ .data.numTreasures_MAP14
+                0x00800145        0x2 game.o
+                0x00800145                numTreasures_MAP14
+ .data.MAP14_TREASURELIST
+                0x00800147       0x1a game.o
+                0x00800147                MAP14_TREASURELIST
+ .data.numMarkers_MAP13
+                0x00800161        0x1 game.o
+                0x00800161                numMarkers_MAP13
+ .data.MAP13_MARKERSLIST
+                0x00800162        0x2 game.o
+                0x00800162                MAP13_MARKERSLIST
+ .data.MAP13_TREELIST
+                0x00800164        0xd game.o
+                0x00800164                MAP13_TREELIST
+ .data.numTreasures_MAP13
+                0x00800171        0x2 game.o
+                0x00800171                numTreasures_MAP13
+ .data.MAP13_TREASURELIST
+                0x00800173        0xa game.o
+                0x00800173                MAP13_TREASURELIST
+ .data.numMarkers_MAP12
+                0x0080017d        0x1 game.o
+                0x0080017d                numMarkers_MAP12
+ .data.MAP12_MARKERSLIST
+                0x0080017e        0x6 game.o
+                0x0080017e                MAP12_MARKERSLIST
+ .data.MAP12_TREELIST
+                0x00800184        0xb game.o
+                0x00800184                MAP12_TREELIST
+ .data.numTreasures_MAP12
+                0x0080018f        0x2 game.o
+                0x0080018f                numTreasures_MAP12
+ .data.MAP12_TREASURELIST
+                0x00800191        0xc game.o
+                0x00800191                MAP12_TREASURELIST
+ .data.numMarkers_MAP11
+                0x0080019d        0x1 game.o
+                0x0080019d                numMarkers_MAP11
+ .data.MAP11_MARKERSLIST
+                0x0080019e        0x4 game.o
+                0x0080019e                MAP11_MARKERSLIST
+ .data.MAP11_TREELIST
+                0x008001a2        0xa game.o
+                0x008001a2                MAP11_TREELIST
+ .data.numTreasures_MAP11
+                0x008001ac        0x2 game.o
+                0x008001ac                numTreasures_MAP11
+ .data.MAP11_TREASURELIST
+                0x008001ae        0xc game.o
+                0x008001ae                MAP11_TREASURELIST
+ .data.numMarkers_MAP10
+                0x008001ba        0x1 game.o
+                0x008001ba                numMarkers_MAP10
+ .data.MAP10_MARKERSLIST
+                0x008001bb        0x6 game.o
+                0x008001bb                MAP10_MARKERSLIST
+ .data.MAP10_TREE_LOCATIONS
+                0x008001c1        0xd game.o
+                0x008001c1                MAP10_TREE_LOCATIONS
+ .data.numMarkers_MAP9
+                0x008001ce        0x1 game.o
+                0x008001ce                numMarkers_MAP9
+ .data.MAP9_MARKERSLIST
+                0x008001cf        0x2 game.o
+                0x008001cf                MAP9_MARKERSLIST
+ .data.MAP9_TREE_LOCATIONS
+                0x008001d1        0x9 game.o
+                0x008001d1                MAP9_TREE_LOCATIONS
+ .data.numTreasures_MAP9
+                0x008001da        0x2 game.o
+                0x008001da                numTreasures_MAP9
+ .data.MAP9_TREASURELIST
+                0x008001dc        0xe game.o
+                0x008001dc                MAP9_TREASURELIST
+ .data.MAP8_TREE_LOCATIONS
+                0x008001ea       0x12 game.o
+                0x008001ea                MAP8_TREE_LOCATIONS
+ .data.numMarkers_MAP7
+                0x008001fc        0x1 game.o
+                0x008001fc                numMarkers_MAP7
+ .data.MAP7_MARKERSLIST
+                0x008001fd        0x6 game.o
+                0x008001fd                MAP7_MARKERSLIST
+ .data.MAP7_TREE_LOCATIONS
+                0x00800203        0x9 game.o
+                0x00800203                MAP7_TREE_LOCATIONS
+ .data.numMarkers_MAP6
+                0x0080020c        0x1 game.o
+                0x0080020c                numMarkers_MAP6
+ .data.MAP6_MARKERSLIST
+                0x0080020d        0x2 game.o
+                0x0080020d                MAP6_MARKERSLIST
+ .data.MAP6_TREELIST
+                0x0080020f        0xa game.o
+                0x0080020f                MAP6_TREELIST
+ .data.numTreasures_MAP6
+                0x00800219        0x2 game.o
+                0x00800219                numTreasures_MAP6
+ .data.MAP6_TREASURELIST
+                0x0080021b        0x4 game.o
+                0x0080021b                MAP6_TREASURELIST
+ .data.numMarkers_MAP5
+                0x0080021f        0x1 game.o
+                0x0080021f                numMarkers_MAP5
+ .data.MAP5_MARKERSLIST
+                0x00800220        0x4 game.o
+                0x00800220                MAP5_MARKERSLIST
+ .data.MAP5_TREE_LOCATIONS
+                0x00800224        0xe game.o
+                0x00800224                MAP5_TREE_LOCATIONS
+ .data.numMarkers_MAP4
+                0x00800232        0x1 game.o
+                0x00800232                numMarkers_MAP4
+ .data.MAP4_MARKERSLIST
+                0x00800233        0x6 game.o
+                0x00800233                MAP4_MARKERSLIST
+ .data.MAP4_TREE_LOCATIONS
+                0x00800239        0xc game.o
+                0x00800239                MAP4_TREE_LOCATIONS
+ .data.numTreasures_MAP4
+                0x00800245        0x2 game.o
+                0x00800245                numTreasures_MAP4
+ .data.MAP4_TREASURELIST
+                0x00800247        0x2 game.o
+                0x00800247                MAP4_TREASURELIST
+ .data.numMarkers_MAP3
+                0x00800249        0x1 game.o
+                0x00800249                numMarkers_MAP3
+ .data.MAP3_MARKERSLIST
+                0x0080024a        0x4 game.o
+                0x0080024a                MAP3_MARKERSLIST
+ .data.MAP3_TREE_LOCATIONS
+                0x0080024e        0x9 game.o
+                0x0080024e                MAP3_TREE_LOCATIONS
+ .data.numTreasures_MAP3
+                0x00800257        0x2 game.o
+                0x00800257                numTreasures_MAP3
+ .data.MAP3_TREASURELIST
+                0x00800259        0x8 game.o
+                0x00800259                MAP3_TREASURELIST
+ .data.numMarkers_MAP2
+                0x00800261        0x1 game.o
+                0x00800261                numMarkers_MAP2
+ .data.MAP2_MARKERSLIST
+                0x00800262        0x4 game.o
+                0x00800262                MAP2_MARKERSLIST
+ .data.MAP2_TREE_LOCATIONS
+                0x00800266       0x10 game.o
+                0x00800266                MAP2_TREE_LOCATIONS
+ .data.MAP2_TREASURELIST
+                0x00800276        0xa game.o
+                0x00800276                MAP2_TREASURELIST
+ .data.numMarkers_MAP1
+                0x00800280        0x1 game.o
+                0x00800280                numMarkers_MAP1
+ .data.MAP1_MARKERSLIST
+                0x00800281        0x4 game.o
+                0x00800281                MAP1_MARKERSLIST
+ .data.MAP1_TREE_LOCATIONS
+                0x00800285        0xf game.o
+                0x00800285                MAP1_TREE_LOCATIONS
+ .data.MAP1_TREASURELIST
+                0x00800294        0x6 game.o
+                0x00800294                MAP1_TREASURELIST
+ .data.numMarkers_Map0
+                0x0080029a        0x1 game.o
+                0x0080029a                numMarkers_Map0
+ .data.MAP0_MARKERSLIST
+                0x0080029b        0x4 game.o
+                0x0080029b                MAP0_MARKERSLIST
+ .data.MAP0_TREE_LOCATIONS
+                0x0080029f        0xd game.o
+                0x0080029f                MAP0_TREE_LOCATIONS
+ .data.MAP0_TREASURELIST
+                0x008002ac        0x4 game.o
+                0x008002ac                MAP0_TREASURELIST
+ .data._avr_timer_M
+                0x008002b0        0x4 game.o
+                0x008002b0                _avr_timer_M
+ *(.rodata)
+ .rodata        0x008002b4        0xc game.o
+ *(.rodata*)
+ .rodata.str1.1
+                0x008002c0      0x2a7 game.o
+ *(.gnu.linkonce.d*)
+                0x00800568                . = ALIGN (0x2)
+ *fill*         0x00800567        0x1 
+                0x00800568                _edata = .
+                0x00800568                PROVIDE (__data_end, .)
+
+.bss            0x00800568      0x20a
+                0x00800568                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.task5.2761
+                0x00800568        0xb game.o
+ .bss.task4.2760
+                0x00800573        0xb game.o
+ .bss.task3.2759
+                0x0080057e        0xb game.o
+ .bss.task2.2758
+                0x00800589        0xb game.o
+ .bss.task1.2757
+                0x00800594        0xb game.o
+ .bss.task0.2756
+                0x0080059f        0xb game.o
+ .bss._avr_timer_cntcurr
+                0x008005aa        0x4 game.o
+                0x008005aa                _avr_timer_cntcurr
+ .bss.TimerFlag
+                0x008005ae        0x1 game.o
+                0x008005ae                TimerFlag
+ *(COMMON)
+ COMMON         0x008005af      0x1c3 game.o
+                0x008005af                MAP9_J3
+                0x008005b4                MAP9_J2
+                0x008005b9                MAP2_J1
+                0x008005be                MAP11_J2
+                0x008005c3                MAP9_C1
+                0x008005c8                MAP1_J1
+                0x008005cd                MAP4_TO_MAP6
+                0x008005d1                tutIndex
+                0x008005d2                MAP7_TO_MAP5
+                0x008005d6                MAP5_TO_MAP4
+                0x008005da                TutMSGOn
+                0x008005db                MAP14_TO_MAP11
+                0x008005df                MAP4_TO_MAP3
+                0x008005e3                MAP10_TO_MAP12
+                0x008005e7                MAP14_J1
+                0x008005ec                scoreDisplayOn
+                0x008005ed                MAP8_TO_MAP7
+                0x008005f1                Title2Index
+                0x008005f2                TitleOn
+                0x008005f3                TimeDisplayOn
+                0x008005f4                MAP12_C1
+                0x008005f9                MAP14_T1
+                0x008005fe                MAP12_G1
+                0x00800603                MAP11_C1
+                0x00800608                MAP15_TO_MAP9
+                0x0080060c                MAP6_C1
+                0x00800611                MAP8_TO_MAP15
+                0x00800615                MAP15_TO_MAP12
+                0x00800619                MAP3_J2
+                0x0080061e                MAP13_TO_MAP12
+                0x00800622                MAP6_G1
+                0x00800627                MAP12_TO_MAP13
+                0x0080062b                MAP2_J2
+                0x00800630                TutorialOn
+                0x00800631                MAP15_TO_MAP14
+                0x00800635                MAP14_C2
+                0x0080063a                MAP12_TO_MAP15
+                0x0080063e                currMap
+                0x0080063f                pauseMenuIndex
+                0x00800640                MAP12_J1
+                0x00800645                MAP4_J1
+                0x0080064a                MAP11_TO_MAP14
+                0x0080064e                MAP14_TO_MAP15
+                0x00800652                MAP13_J3
+                0x00800657                MAP9_J4
+                0x0080065c                MAP11_J3
+                0x00800661                fakeRandomNumber
+                0x00800662                button
+                0x00800663                MAP1_indexOfTreasure
+                0x00800664                MAP14_J3
+                0x00800669                MAP11_J1
+                0x0080066e                MAP14_G2
+                0x00800673                MAP1_TO_MAP0
+                0x00800677                MAP1_C1
+                0x0080067c                map13_treasureRandomized
+                0x0080067d                MAP12_TO_MAP10
+                0x00800681                MAP1_T1
+                0x00800686                MAP10_TO_MAP1
+                0x0080068a                score
+                0x0080068c                MAP6_TO_MAP4
+                0x00800690                isPaused
+                0x00800691                MAP7_TO_MAP9
+                0x00800695                gameOver
+                0x00800697                MAP11_G1
+                0x0080069c                MAP4_TO_MAP5
+                0x008006a0                nextPlayerPos
+                0x008006a1                MAP2_T2
+                0x008006a6                MAP2_TO_MAP1
+                0x008006aa                PORTAL_UP
+                0x008006ab                endex
+                0x008006ac                MAP9_J1
+                0x008006b1                MAP2_J3
+                0x008006b6                GameOn
+                0x008006b7                endingOn
+                0x008006b8                MAP3_C1
+                0x008006bd                map6_treasureRandomized
+                0x008006be                MAP3_TO_MAP2
+                0x008006c2                scoreToggle
+                0x008006c3                MAP3_C2
+                0x008006c8                MAP5_TO_MAP7
+                0x008006cc                movePlayer
+                0x008006cd                resultsOn
+                0x008006ce                MAP9_G1
+                0x008006d3                highScore
+                0x008006d5                MAP14_J5
+                0x008006da                MAP14_G4
+                0x008006df                MAP14_C1
+                0x008006e4                updateMap
+                0x008006e5                map14_treasureRandomized
+                0x008006e6                MAP15_T1
+                0x008006eb                MAP0_TO_MAP10
+                0x008006ef                MAP9_T1
+                0x008006f4                MAP13_C1
+                0x008006f9                MAP0_TO_MAP1
+                0x008006fd                PauseMenuOn
+                0x008006fe                MAP14_J2
+                0x00800703                MAP14_G1
+                0x00800708                MAP13_J2
+                0x0080070d                MAP3_J1
+                0x00800712                TitleIndex
+                0x00800713                MAP0_J1
+                0x00800718                gameTimer
+                0x0080071c                MAP7_TO_MAP8
+                0x00800720                MAP12_T1
+                0x00800725                MAP10_TO_MAP11
+                0x00800729                MAP11_TO_MAP10
+                0x0080072d                MAP2_TO_MAP3
+                0x00800731                MAP1_TO_MAP2
+                0x00800735                MAP3_TO_MAP4
+                0x00800739                map12_treasureRandomized
+                0x0080073a                MAP9_TO_MAP7
+                0x0080073e                MAP14_T2
+                0x00800743                MAP0_T1
+                0x00800748                MAP11_T1
+                0x0080074d                currPlayerPos
+                0x0080074e                MAP12_J2
+                0x00800753                MAP12_T2
+                0x00800758                MAP14_J4
+                0x0080075d                MAP2_T1
+                0x00800762                MAP14_G3
+                0x00800767                map8_PortalON
+                0x00800768                MAP13_G1
+                0x0080076d                MAP13_J1
+                0x00800772                PROVIDE (__bss_end, .)
+                0x00003b28                __data_load_start = LOADADDR (.data)
+                0x00003f90                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800772        0x0
+                0x00800772                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x00800772                PROVIDE (__noinit_end, .)
+                0x00800772                _end = .
+                0x00800772                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 game.o
+                                 0x31 (size before relaxing)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x440
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000      0x440 game.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x4c38
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000     0x4c38 game.o
+
+.debug_abbrev   0x00000000      0x36a
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x36a game.o
+
+.debug_line     0x00000000     0x3067
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000     0x3067 game.o
+
+.debug_frame    0x00000000      0xc00
+ *(.debug_frame)
+ .debug_frame   0x00000000      0xc00 game.o
+
+.debug_str      0x00000000     0x16cc
+ *(.debug_str)
+ .debug_str     0x00000000     0x16cc game.o
+                               0x1796 (size before relaxing)
+
+.debug_loc      0x00000000     0x3101
+ *(.debug_loc)
+ .debug_loc     0x00000000     0x3101 game.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x5f8
+ *(.debug_ranges)
+ .debug_ranges  0x00000000      0x5f8 game.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(game.elf elf32-avr)
+LOAD linker stubs
